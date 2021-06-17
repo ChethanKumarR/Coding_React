@@ -1,0 +1,26 @@
+
+
+
+(get) hotelwrtcity > https://developerfunnel.herokuapp.com/hotels?city=6 ===> second api  ====> /hotels -> param   
+                                                                                 ?city=  -> Query param
+(get) hoteldetails > https://developerfunnel.herokuapp.com/hotelsdetails/1 ====> seventh api
+
+(get) onbasisoftrip> https://developerfunnel.herokuapp.com/hotellist/1   ----> third api
+
+https://developerfunnel.herokuapp.com/hotellist/1?roomtype=1    ------> fouth api    ====> /1 ---> trip type
+                                                                                     ====> ?roomtype --->room type
+																					 
+https://developerfunnel.herokuapp.com/hotellist/1?hcost=1000&lcost=500  ===> fifth api ====> /1 ---> trip type
+                                                                                       =====> ?hcost=1000 
+																					   =====> &lcost=500
+
+(get) cityname> https://developerfunnel.herokuapp.com/location   ---> first api
+
+(get)  rooms => https://developerfunnel.herokuapp.com/rooms  -----> sixth api
+
+(get)  triptype> https://developerfunnel.herokuapp.com/booking
+
+(get)  bookingdetails > https://developerfunnel.herokuapp.com/allBooking
+
+(post) placebooking >  https://developerfunnel.herokuapp.com/placeBook  
+

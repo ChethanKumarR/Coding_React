@@ -1,0 +1,4 @@
+    listUrl : "https://developerfunnel.herokuapp.com/hotellist",
+    QuickUrl : "https://developerfunnel.herokuapp.com/booking",
+    lurl : "https://developerfunnel.herokuapp.com/location",
+    hurl : "https://developerfunnel.herokuapp.com/hotels?city="

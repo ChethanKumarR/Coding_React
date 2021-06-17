@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Header.css"],"names":[],"mappings":"AAAA,OACE,uBACF,CAEA,MACE,cAAe,CACf,iBAAkB,CAClB,UACF","file":"main.1ce043f3.chunk.css","sourcesContent":["header {\r\n  background-color: tomato;\r\n}\r\n\r\n.logo {\r\n  font-size: 30px;\r\n  text-align: center;\r\n  color: #fff;\r\n}\r\n"]}

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>React App</title>
+  </head>
+  <body>
+    <div id="root"style="text-align : center";>
+       <p id="para">Chethan Programmer</p>
+       <button style="color:black; width: 50px;" onclick="changeColor('blue')">Click</button>
+       <button style="color:black; width: 50px;" onclick="changeColor('red')">Click</button>
+       <div>
+        <img src="../src/assets/images/katie.jpg"  alt="Girl in a jacket" width="100" height="200">
+       </div>
+    </div>
+
+    <script>
+         function changeColor (newColor) {
+            var elem = document.getElementById('para');
+            elem.style.color = newColor;
+         }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Functional Testing snapshotTtesting 1`] = `
+<header>
+  <div>
+    <hr />
+    © Developer Chethan
+  </div>
+</header>
+`;
